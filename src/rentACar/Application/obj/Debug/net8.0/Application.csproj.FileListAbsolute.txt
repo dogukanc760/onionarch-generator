@@ -1,0 +1,12 @@
+/Users/development/Desktop/my-projects/new-pattern-project/src/rentACar/Application/bin/Debug/net8.0/Application.deps.json
+/Users/development/Desktop/my-projects/new-pattern-project/src/rentACar/Application/bin/Debug/net8.0/Application.dll
+/Users/development/Desktop/my-projects/new-pattern-project/src/rentACar/Application/bin/Debug/net8.0/Application.pdb
+/Users/development/Desktop/my-projects/new-pattern-project/src/rentACar/Application/obj/Debug/net8.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/development/Desktop/my-projects/new-pattern-project/src/rentACar/Application/obj/Debug/net8.0/Application.AssemblyInfoInputs.cache
+/Users/development/Desktop/my-projects/new-pattern-project/src/rentACar/Application/obj/Debug/net8.0/Application.AssemblyInfo.cs
+/Users/development/Desktop/my-projects/new-pattern-project/src/rentACar/Application/obj/Debug/net8.0/Application.csproj.CoreCompileInputs.cache
+/Users/development/Desktop/my-projects/new-pattern-project/src/rentACar/Application/obj/Debug/net8.0/Application.dll
+/Users/development/Desktop/my-projects/new-pattern-project/src/rentACar/Application/obj/Debug/net8.0/refint/Application.dll
+/Users/development/Desktop/my-projects/new-pattern-project/src/rentACar/Application/obj/Debug/net8.0/Application.pdb
+/Users/development/Desktop/my-projects/new-pattern-project/src/rentACar/Application/obj/Debug/net8.0/ref/Application.dll
+/Users/development/Desktop/my-projects/new-pattern-project/src/rentACar/Application/obj/Debug/net8.0/Application.csproj.AssemblyReference.cache

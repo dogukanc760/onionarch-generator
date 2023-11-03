@@ -1,0 +1,15 @@
+/Users/development/Desktop/my-projects/new-pattern-project/src/rentACar/Domain/bin/Debug/net8.0/Domain.deps.json
+/Users/development/Desktop/my-projects/new-pattern-project/src/rentACar/Domain/bin/Debug/net8.0/Domain.dll
+/Users/development/Desktop/my-projects/new-pattern-project/src/rentACar/Domain/bin/Debug/net8.0/Domain.pdb
+/Users/development/Desktop/my-projects/new-pattern-project/src/rentACar/Domain/bin/Debug/net8.0/Core.Persistance.dll
+/Users/development/Desktop/my-projects/new-pattern-project/src/rentACar/Domain/bin/Debug/net8.0/Core.Persistance.pdb
+/Users/development/Desktop/my-projects/new-pattern-project/src/rentACar/Domain/obj/Debug/net8.0/Domain.csproj.AssemblyReference.cache
+/Users/development/Desktop/my-projects/new-pattern-project/src/rentACar/Domain/obj/Debug/net8.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/development/Desktop/my-projects/new-pattern-project/src/rentACar/Domain/obj/Debug/net8.0/Domain.AssemblyInfoInputs.cache
+/Users/development/Desktop/my-projects/new-pattern-project/src/rentACar/Domain/obj/Debug/net8.0/Domain.AssemblyInfo.cs
+/Users/development/Desktop/my-projects/new-pattern-project/src/rentACar/Domain/obj/Debug/net8.0/Domain.csproj.CoreCompileInputs.cache
+/Users/development/Desktop/my-projects/new-pattern-project/src/rentACar/Domain/obj/Debug/net8.0/Domain.csproj.CopyComplete
+/Users/development/Desktop/my-projects/new-pattern-project/src/rentACar/Domain/obj/Debug/net8.0/Domain.dll
+/Users/development/Desktop/my-projects/new-pattern-project/src/rentACar/Domain/obj/Debug/net8.0/refint/Domain.dll
+/Users/development/Desktop/my-projects/new-pattern-project/src/rentACar/Domain/obj/Debug/net8.0/Domain.pdb
+/Users/development/Desktop/my-projects/new-pattern-project/src/rentACar/Domain/obj/Debug/net8.0/ref/Domain.dll

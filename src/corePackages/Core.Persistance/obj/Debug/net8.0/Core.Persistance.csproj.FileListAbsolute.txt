@@ -1,0 +1,11 @@
+/Users/development/Desktop/my-projects/new-pattern-project/src/corePackages/Core.Persistance/bin/Debug/net8.0/Core.Persistance.deps.json
+/Users/development/Desktop/my-projects/new-pattern-project/src/corePackages/Core.Persistance/bin/Debug/net8.0/Core.Persistance.dll
+/Users/development/Desktop/my-projects/new-pattern-project/src/corePackages/Core.Persistance/bin/Debug/net8.0/Core.Persistance.pdb
+/Users/development/Desktop/my-projects/new-pattern-project/src/corePackages/Core.Persistance/obj/Debug/net8.0/Core.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/development/Desktop/my-projects/new-pattern-project/src/corePackages/Core.Persistance/obj/Debug/net8.0/Core.Persistance.AssemblyInfoInputs.cache
+/Users/development/Desktop/my-projects/new-pattern-project/src/corePackages/Core.Persistance/obj/Debug/net8.0/Core.Persistance.AssemblyInfo.cs
+/Users/development/Desktop/my-projects/new-pattern-project/src/corePackages/Core.Persistance/obj/Debug/net8.0/Core.Persistance.csproj.CoreCompileInputs.cache
+/Users/development/Desktop/my-projects/new-pattern-project/src/corePackages/Core.Persistance/obj/Debug/net8.0/Core.Persistance.dll
+/Users/development/Desktop/my-projects/new-pattern-project/src/corePackages/Core.Persistance/obj/Debug/net8.0/refint/Core.Persistance.dll
+/Users/development/Desktop/my-projects/new-pattern-project/src/corePackages/Core.Persistance/obj/Debug/net8.0/Core.Persistance.pdb
+/Users/development/Desktop/my-projects/new-pattern-project/src/corePackages/Core.Persistance/obj/Debug/net8.0/ref/Core.Persistance.dll

@@ -1,0 +1,11 @@
+/Users/development/Desktop/my-projects/new-pattern-project/src/rentACar/Persistance/bin/Debug/net8.0/Persistance.deps.json
+/Users/development/Desktop/my-projects/new-pattern-project/src/rentACar/Persistance/bin/Debug/net8.0/Persistance.dll
+/Users/development/Desktop/my-projects/new-pattern-project/src/rentACar/Persistance/bin/Debug/net8.0/Persistance.pdb
+/Users/development/Desktop/my-projects/new-pattern-project/src/rentACar/Persistance/obj/Debug/net8.0/Persistance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/development/Desktop/my-projects/new-pattern-project/src/rentACar/Persistance/obj/Debug/net8.0/Persistance.AssemblyInfoInputs.cache
+/Users/development/Desktop/my-projects/new-pattern-project/src/rentACar/Persistance/obj/Debug/net8.0/Persistance.AssemblyInfo.cs
+/Users/development/Desktop/my-projects/new-pattern-project/src/rentACar/Persistance/obj/Debug/net8.0/Persistance.csproj.CoreCompileInputs.cache
+/Users/development/Desktop/my-projects/new-pattern-project/src/rentACar/Persistance/obj/Debug/net8.0/Persistance.dll
+/Users/development/Desktop/my-projects/new-pattern-project/src/rentACar/Persistance/obj/Debug/net8.0/refint/Persistance.dll
+/Users/development/Desktop/my-projects/new-pattern-project/src/rentACar/Persistance/obj/Debug/net8.0/Persistance.pdb
+/Users/development/Desktop/my-projects/new-pattern-project/src/rentACar/Persistance/obj/Debug/net8.0/ref/Persistance.dll
