@@ -9,3 +9,5 @@
 /Users/development/Desktop/my-projects/new-pattern-project/src/corePackages/Core.Persistance/obj/Debug/net8.0/refint/Core.Persistance.dll
 /Users/development/Desktop/my-projects/new-pattern-project/src/corePackages/Core.Persistance/obj/Debug/net8.0/Core.Persistance.pdb
 /Users/development/Desktop/my-projects/new-pattern-project/src/corePackages/Core.Persistance/obj/Debug/net8.0/ref/Core.Persistance.dll
+/Users/development/Desktop/my-projects/new-pattern-project/src/corePackages/Core.Persistance/obj/Debug/net8.0/Core.Persistance.csproj.AssemblyReference.cache
+/Users/development/Desktop/my-projects/new-pattern-project/src/corePackages/Core.Persistance/obj/Debug/net8.0/Core.Persistance.sourcelink.json

@@ -10,3 +10,9 @@
 /Users/development/Desktop/my-projects/new-pattern-project/src/rentACar/Application/obj/Debug/net8.0/Application.pdb
 /Users/development/Desktop/my-projects/new-pattern-project/src/rentACar/Application/obj/Debug/net8.0/ref/Application.dll
 /Users/development/Desktop/my-projects/new-pattern-project/src/rentACar/Application/obj/Debug/net8.0/Application.csproj.AssemblyReference.cache
+/Users/development/Desktop/my-projects/new-pattern-project/src/rentACar/Application/bin/Debug/net8.0/Core.Persistance.dll
+/Users/development/Desktop/my-projects/new-pattern-project/src/rentACar/Application/bin/Debug/net8.0/Domain.dll
+/Users/development/Desktop/my-projects/new-pattern-project/src/rentACar/Application/bin/Debug/net8.0/Core.Persistance.pdb
+/Users/development/Desktop/my-projects/new-pattern-project/src/rentACar/Application/bin/Debug/net8.0/Domain.pdb
+/Users/development/Desktop/my-projects/new-pattern-project/src/rentACar/Application/obj/Debug/net8.0/Application.sourcelink.json
+/Users/development/Desktop/my-projects/new-pattern-project/src/rentACar/Application/obj/Debug/net8.0/Application.csproj.CopyComplete
